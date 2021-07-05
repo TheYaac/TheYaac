@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TheYaac
-- 👀 I’m interested in Minecraft Modding and Datapacks
-- 🌱 I’m currently learning Minecraft Datapacks
+- 👋 Hi, I’m @TheYaac or Yaac for short.
+- 👀 I’m interested in Minecraft Modding and Datapacks.
+- 🌱 I’m currently learning Minecraft Datapacks.
 - 💞️ I’m looking to collaborate on something in the future.
 - 📫 Reach me on Twitter @The_Yaac
 
