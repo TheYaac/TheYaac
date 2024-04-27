@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jake.
-- 👀 I’m interested in Minecraft Modding and Datapacks.
-- 🌱 I’m currently learning about Java based Databases.
+- 👀 I’m interested in Minecraft Modding and Pixel Art.
+- 🌱 I’m currently learning about UI UX.
 - 💞️ I’m looking to collaborate on something in the future.
 
 <!---
